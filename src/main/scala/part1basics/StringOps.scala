@@ -32,7 +32,7 @@ object StringOps extends App{
   val greeting = s"Hello , my name is $name and age is $age"
 //These can evaluate complex expressions
 
-  val aGreating = s"Hello , my name is $name and age is $(age + 1)"
+  val aGreating = s"Hello , my name is $name and age is ($age + 1)"
 
   println(greeting)
 
