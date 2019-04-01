@@ -22,15 +22,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/MyListExercise.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="28" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/MyListGeneric.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="748">
@@ -69,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/PackagingAndImports.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
+            <state relative-caret-position="442">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
@@ -78,17 +69,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
+            <state relative-caret-position="833">
               <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/AnonymousFunctions.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+            <state relative-caret-position="271">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -159,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/part2oop/PackagingAndImports.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/part3fp/AnonymousFunctions.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries.scala" />
       </list>
     </option>
   </component>
@@ -180,24 +181,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ScalaLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ScalaLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ScalaLearning" type="b2602c69:ProjectViewProjectNode" />
@@ -225,30 +215,17 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="part3fp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ScalaLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553538886374" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554142798256" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -273,20 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnonymousFunctions">
-    <configuration name="AnonymousClasses" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part2oop.AnonymousClasses" />
-      <module name="ScalaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part2oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HOFsCurries">
     <configuration name="AnonymousFunctions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="part3fp.AnonymousFunctions" />
       <module name="ScalaLearning" />
@@ -326,6 +290,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HOFsCurries" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3fp.HOFsCurries" />
+      <module name="ScalaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhatsAFunction" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="part3fp.WhatsAFunction" />
       <module name="ScalaLearning" />
@@ -341,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HOFsCurries" />
         <item itemvalue="Application.AnonymousFunctions" />
         <item itemvalue="Application.WhatsAFunction" />
         <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.CaseClass" />
-        <item itemvalue="Application.AnonymousClasses" />
       </list>
     </recent_temporary>
   </component>
@@ -401,18 +378,19 @@
       <workItem from="1553342258671" duration="6659000" />
       <workItem from="1553437772079" duration="4838000" />
       <workItem from="1553494878376" duration="13392000" />
-      <workItem from="1553534172288" duration="4685000" />
+      <workItem from="1553534172288" duration="4766000" />
+      <workItem from="1554140388647" duration="2502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35971000" />
+    <option name="totallyTimeSpent" value="38554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="13" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2651633" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2690513" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -592,6 +570,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/PackagingAndImports.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/package.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -606,24 +591,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/PackagingAndImports.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="833">
           <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/AnonymousFunctions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        <state relative-caret-position="271">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
