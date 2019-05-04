@@ -1,6 +1,6 @@
 package part2oop
 
-object CaseClass extends App{
+object CaseClass7 extends App{
 
   //Case class is used to define a class, object and many methods like toString, hash in ONE GO
   //Lightweight data holding classes with really minimal hassle

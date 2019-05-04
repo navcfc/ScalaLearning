@@ -1,6 +1,6 @@
 package part2oop
 
-object MethodNotations extends App{
+object MethodNotations2 extends App{
 
   class Person(val name: String, favMovie: String) {//If we declare outside, it will conflict with the Person clss in the same package
 

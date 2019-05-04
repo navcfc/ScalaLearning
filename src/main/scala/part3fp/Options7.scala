@@ -1,6 +1,6 @@
 package part3fp
 
-object Options extends  App{
+object Options7 extends  App{
 
   //Option is a wrapper for a value that might be present o r not
   //map uses option when map.get is used instead of the apply method.

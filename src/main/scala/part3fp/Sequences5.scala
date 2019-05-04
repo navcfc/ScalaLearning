@@ -2,7 +2,7 @@ package part3fp
 
 import scala.util.Random
 
-object Sequences extends App{
+object Sequences5 extends App{
 
   //Seq -- Have a well defined order, And can be indexed
 

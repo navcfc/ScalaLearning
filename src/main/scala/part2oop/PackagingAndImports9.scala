@@ -1,6 +1,6 @@
 package part2oop
 
-object PackagingAndImports extends App{
+object PackagingAndImports9 extends App{
 
   //package members are accessible by their simple names
   //import package if not available

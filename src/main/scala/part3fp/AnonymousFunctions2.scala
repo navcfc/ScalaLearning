@@ -1,6 +1,6 @@
 package part3fp
 
-object AnonymousFunctions extends App{
+object AnonymousFunctions2 extends App{
 
   //INstantianitng a fucntion is still very much tied to object oriented way
   val doubler = new Function1[Int, Int] {

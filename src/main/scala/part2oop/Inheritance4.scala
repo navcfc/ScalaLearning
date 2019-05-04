@@ -1,6 +1,6 @@
 package part2oop
 
-object Inheritance extends App{
+object Inheritance4 extends App{
 
   //Scala has single class inheritance
 

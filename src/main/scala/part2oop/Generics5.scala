@@ -1,6 +1,6 @@
 package part2oop
 
-object Generics extends App{
+object Generics5 extends App{
 
   //denotes a generic type
   class MyList[+A] {

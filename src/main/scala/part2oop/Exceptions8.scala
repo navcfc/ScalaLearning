@@ -1,6 +1,6 @@
 package part2oop
 
-object Exceptions extends App{
+object Exceptions8 extends App{
 
   val x : String = null
 

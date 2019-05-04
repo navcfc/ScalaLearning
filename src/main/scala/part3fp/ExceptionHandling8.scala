@@ -2,7 +2,7 @@ package part3fp
 
 import scala.util.{Failure, Success, Try}
 
-object ExceptionHandling extends App{
+object ExceptionHandling8 extends App{
 
   //create success pr faailure explicitly
   val aSuccess = Success(3)

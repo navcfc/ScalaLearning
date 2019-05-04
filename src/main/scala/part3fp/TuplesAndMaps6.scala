@@ -1,6 +1,6 @@
 package part3fp
 
-object TuplesAndMaps extends App{
+object TuplesAndMaps6 extends App{
 
   //tuples- finite ordered, kind of like lists
   val aTuple = new Tuple2(2,"HELLO SCALA") //Tuple2[Int,String] = (Int, String) // No need of new Tuple2
