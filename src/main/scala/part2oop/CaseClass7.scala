@@ -24,7 +24,7 @@ object CaseClass7 extends App{
 
   //4. case classes have handy copy methods
   val him3 = him.copy(age = 45)
-  println(him3)
+  println("him3 is: " + him3)
 
   //5. case classes have companion objects
   val thePerson = Person

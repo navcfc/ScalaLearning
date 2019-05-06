@@ -5,7 +5,7 @@ object Objects3 {
   //SCALA DOES NOT HAVE CLASS LEVEL FUNCTIONALITY// DOES NOT KNOW THE CONCEPT OF STATIC
   //AN OBJECT ITSELF HAS A STATIC LIKE FUNCTIONALITY
 
-  object  Person { //TYPE + ITS ONLY INSTANCE
+  object  Person { //SINGLETON TYPE + ITS ONLY INSTANCE
 
     //class level functionality = static
     //Can be done for functions without params
@@ -23,7 +23,8 @@ object Objects3 {
 
   }
 
-  //COMPANIONS -- same object or class with same NAMES in same SCOPE.. THE WHOLE CODE WE WILL WRITE IN WILL EITHER RESIDE IN CLASS VIA INSTANCE or OBJECT VIA SINGLETON INSTANCE
+  //COMPANIONS -- same object or class with same NAMES in same SCOPE.. THE WHOLE CODE WE WILL WRITE IN WILL
+  // EITHER RESIDE IN CLASS VIA INSTANCE or OBJECT VIA SINGLETON INSTANCE
 
   //An object is used a singleton instance
   def main (args : Array[String]) : Unit = {

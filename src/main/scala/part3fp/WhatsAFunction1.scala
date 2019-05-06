@@ -15,7 +15,7 @@ object WhatsAFunction extends App{
   //Scala supports these function types from Function 1 to Function 22
   //Function1[A,B]
 
-  val stringToIntConverter = new Function1[String, Int] {
+  val stringToIntConverter : String => Int = new Function1[String, Int] {
     override def apply(v1: String): Int = v1.toInt
   }
 
@@ -48,6 +48,14 @@ object WhatsAFunction extends App{
       override def apply(y: Int): Int = x + y
      }
   }
+
+  /* Can also be written like this:-
+    val superAdder : Int => Int => Int = new Function1[Int, Function1[Int,Int]] {
+    override def apply(x: Int): Int => Int = new Function[Int,Int] {
+      override def apply(y: Int): Int = x + y
+     }
+  }
+   */
 
   val adder3 = superAdder(3)
   println(adder3(4))

@@ -58,7 +58,8 @@ object Generics5 extends App{
 
 
   //bounded types
-  //allow to use generic classes for a certain types that are either a subclass or a superclass of a different type
+  //allow to use generic classes for a certain types that are
+  // either a subclass or a superclass of a different type
   class Cage[A <: Animal](animal: A) //class cage only expects subtypes of animals
   //if its >: Cage only expects super type of animals
   val cage = new Cage(new Dog)

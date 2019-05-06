@@ -3,8 +3,101 @@
   <component name="ChangeListManager">
     <list default="true" id="56d270fd-e677-4b16-a979-139711b858bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/part2oop/MethodNotations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part2oop/MethodNotations2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/part2oop/OOBasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part2oop/OOBasics1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/AnonymousClasses$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/AnonymousClasses$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/AnonymousClasses$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/AnonymousClasses$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/AnonymousClasses$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/AnonymousClasses$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/AnonymousClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/CaseClass$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/CaseClass$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/CaseClass$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/CaseClass$UnitedKingdom$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/CaseClass$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/CaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Exceptions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Exceptions$MathCalcException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Exceptions$OverflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Exceptions$PocketCalculator$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Exceptions$UnderflowException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Exceptions$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$Cage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$CoVariantList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$ContravariantList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$InvariantList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$MyList$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$MyMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Generics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$Adult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$Adult1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/MethodNotations$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/MethodNotations$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/MethodNotations$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/MethodNotations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/OOBasics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/OOBasics$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/OOBasics$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/OOBasics$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/OOBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/OOBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Objects$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Objects$Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Objects$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Objects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/PackagingAndImports$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/PackagingAndImports$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/PackagingAndImports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part2oop/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/AnonymousFunctions$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/AnonymousFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/AnonymousFunctions$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/AnonymousFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/HOFsCurries$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/HOFsCurries$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/HOFsCurries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/MapFlatmapFilterFor$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/MapFlatmapFilterFor$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/MapFlatmapFilterFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/MyFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/MyFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/Options$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/Options$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/Options.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/Sequences$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/Sequences$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/TuplesAndMaps$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/TuplesAndMaps$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/TuplesAndMaps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$5$$anon$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$5$$anon$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$$anon$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaLearning/part3fp/WhatsAFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part2oop/CaseClass7.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part2oop/CaseClass7.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part2oop/Generics5.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part2oop/Generics5.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part2oop/Inheritance4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part2oop/Inheritance4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part2oop/Objects3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part2oop/Objects3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part3fp/Sequences5.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part3fp/Sequences5.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction1.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,83 +131,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries3.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="470">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/CaseClass.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/MapFlatmapFilterFor.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/MapFlatmapFilterFor4.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/Sequences.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/TuplesAndMaps.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/AbstractDataTypes.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/AnonymousFunctions.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Generics.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/Options.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/ExceptionHandling.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/Options7.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="85">
+              <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/Sequences5.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/TuplesAndMaps6.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Generics5.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/AnonymousClasses6.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/package.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Objects3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -173,6 +274,16 @@
         <option value="$PROJECT_DIR$/src/main/scala/part3fp/TuplesAndMaps.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/part3fp/Options.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/part3fp/ExceptionHandling.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part3fp/ExceptionHandling8.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part2oop/Objects3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part2oop/Inheritance4.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part2oop/Generics5.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part2oop/CaseClass7.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part2oop/Exceptions8.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part2oop/PackagingAndImports9.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/part3fp/Sequences5.scala" />
       </list>
     </option>
   </component>
@@ -194,8 +305,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,12 +350,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556972427322" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557145997146" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -272,8 +383,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Options">
-    <configuration name="AnonymousFunctions" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.TuplesAndMaps6">
+    <configuration name="AnonymousFunctions2" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="part3fp.AnonymousFunctions2" />
       <module name="ScalaLearning" />
       <extension name="coverage">
@@ -286,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HOFsCurries" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3fp.HOFsCurries3" />
+    <configuration name="CaseClass7" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part2oop.CaseClass7" />
       <module name="ScalaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3fp.*" />
+          <option name="PATTERN" value="part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,34 +410,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapFlatmapFilterFor" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3fp.MapFlatmapFilterFor4" />
-      <module name="ScalaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3fp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Options" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3fp.Options" />
-      <module name="ScalaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3fp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sequences" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Sequences5" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="part3fp.Sequences5" />
+      <module name="ScalaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuplesAndMaps6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3fp.TuplesAndMaps6" />
+      <module name="ScalaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatsAFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3fp.WhatsAFunction" />
       <module name="ScalaLearning" />
       <extension name="coverage">
         <pattern>
@@ -340,11 +451,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Options" />
-        <item itemvalue="Application.Sequences" />
-        <item itemvalue="Application.MapFlatmapFilterFor" />
-        <item itemvalue="Application.HOFsCurries" />
-        <item itemvalue="Application.AnonymousFunctions" />
+        <item itemvalue="Application.TuplesAndMaps6" />
+        <item itemvalue="Application.Sequences5" />
+        <item itemvalue="Application.AnonymousFunctions2" />
+        <item itemvalue="Application.WhatsAFunction" />
+        <item itemvalue="Application.CaseClass7" />
       </list>
     </recent_temporary>
   </component>
@@ -402,17 +513,19 @@
       <workItem from="1553494878376" duration="13392000" />
       <workItem from="1553534172288" duration="4766000" />
       <workItem from="1554140388647" duration="11867000" />
-      <workItem from="1556970441462" duration="1416000" />
+      <workItem from="1556970441462" duration="11248000" />
+      <workItem from="1557058946133" duration="1612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49335000" />
+    <option name="totallyTimeSpent" value="60779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="13" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27293935" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27760497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -421,14 +534,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32792792" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32792792" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32972974" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33153152" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33153152" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32792792" />
@@ -501,20 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/OOBasics1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/MethodNotations2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/part1basics/ValuesVariablesTypes.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -536,20 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Objects3.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Inheritance.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/MyListExercise.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -564,24 +649,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/AnonymousClasses.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/ExceptionHandling8.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="101">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Exceptions.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/OOBasics1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="186">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/PackagingAndImports.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/MethodNotations2.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="288">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Inheritance4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/AbstractDataTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/CaseClass7.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Exceptions8.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/PackagingAndImports9.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/AnonymousFunctions2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Generics5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/AnonymousClasses6.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -592,72 +733,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/WhatsAFunction1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        <state relative-caret-position="186">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Objects3.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/CaseClass.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/MapFlatmapFilterFor.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/HOFsCurries3.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+        <state relative-caret-position="470">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/Sequences.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/Sequences5.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        <state relative-caret-position="288">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/TuplesAndMaps.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/TuplesAndMaps6.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        <state relative-caret-position="288">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/AbstractDataTypes.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/AnonymousFunctions.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/MapFlatmapFilterFor4.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part2oop/Generics.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/Options7.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/Options.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/part3fp/ExceptionHandling.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="85">
+          <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>

@@ -78,7 +78,8 @@ object Sequences5 extends App{
   val numbersList  = (1 to maxCapacity).toList
   val numbersVector = (1 to maxCapacity).toVector
 
-  //KEEPS REFERENCE TO TAILS, UDPATING IN MIDDLE IS VERY LONG TIME.update it in head, its very fast/ but in middle not very efficient
+  //KEEPS REFERENCE TO TAILS, UDPATING IN MIDDLE IS VERY LONG TIME.
+  // update it in head, its very fast/ but in middle not very efficient
   println(getWriteTime(numbersList))
 
   //DEPTH OF TREE IS SMALL.

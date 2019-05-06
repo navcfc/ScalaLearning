@@ -22,7 +22,9 @@ object Inheritance4 extends App{
     def this(name:String) = this(name, 0)
   }
 
-  //THIS CODE WILL NOT COMPILE BECAUSE WJEM U INSTANTIATE THE DERIVED CLASS, THE JVM WILL NEED TO CALL THE CONSTRUCTORFROM TH E PARENT CLASS FIRST. So person constructor has to be called before adult constructor
+  //THIS CODE WILL NOT COMPILE BECAUSE WJEM U INSTANTIATE THE DERIVED CLASS,
+  // THE JVM WILL NEED TO CALL THE CONSTRUCTOR FROM TH E PARENT CLASS FIRST.
+  // So person constructor has to be called before adult constructor
   //This happens in the internals of JVM
   //class Adult(name:String, age:Int, idCard: String) extends Person
 
@@ -75,7 +77,8 @@ object Inheritance4 extends App{
   //1- Use final on memeber
   //2- Final can be used on class itself
   //3 - seal the class = extend class in this file ONLY, BUT PREVENTS EXTENSION IN OTHER FILES
-  //sealed is often used if u want to restrict type hierarchy. for eg only cats and dogs are the only animals alive. have them override in one file and no new animals will be written
+  //sealed is often used if u want to restrict type hierarchy. for eg only cats and dogs
+  // are the only animals alive. have them override in one file and no new animals will be written
 
 
 
